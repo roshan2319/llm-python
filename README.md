@@ -1,5 +1,17 @@
 # Gemini LLM API with Python
 
-This project is a simple implementation of Google's Gemini API using Python. It takes user input from the terminal, sends it to the Gemini model, and prints the generated response.
+A simple Python application that integrates with Google's Gemini API to generate AI responses from user prompts.
 
-I built this project to understand how LLM APIs work, how to securely manage API keys using environment variables, and how to integrate AI models into Python applications. This is the first step in my journey of learning Generative AI and building more advanced LLM-based projects.
+### Features
+- Accepts user input from the terminal
+- Sends prompts to the Gemini API
+- Displays AI-generated responses
+- Uses `.env` for secure API key management
+
+### Tech Stack
+- Python
+- Google Gemini API
+- Google GenAI SDK
+- python-dotenv
+
+This project was built as part of my learning journey in Generative AI and LLM application development.
